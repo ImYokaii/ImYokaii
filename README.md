@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ImYokaii
-- 👀 I’m interested in Lego Mindstorms
-- 🌱 I’m currently learning C++ 
+- 👀 I’m interested in PC Building
+- 🌱 I’m currently learning Django Web Framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
